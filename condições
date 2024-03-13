@@ -1,0 +1,36 @@
+
+// Checar se o numero e impar ou par 
+
+par = pair
+impar = odd
+
+(módulo): if (variavel % 2 === 0)
+
+(módulo): if (variavel % 2 !== 0)
+
+AND: if (variavel & 1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
